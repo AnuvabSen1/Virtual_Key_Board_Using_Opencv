@@ -72,7 +72,7 @@ pip3 install pynput
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/AnuvabSen"><img src="https://avatars.githubusercontent.com/u/86418113?s=400&u=51dac1b9e9c7eeced7d505a54f1241f6aa885419&v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Swapnil Srivastava</h4>
+<td align="center"><a href="https://github.com/AnuvabSen"><img src="https://avatars.githubusercontent.com/u/86418113?s=400&u=51dac1b9e9c7eeced7d505a54f1241f6aa885419&v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Anuvab Sen</h4>
 <a href="https://github.com/AnuvabSen"><img src="https://img.icons8.com/fluency/50/000000/link.png" width="32px" height="32px"></a>
 <a href="https://www.linkedin.com/in/anuvab-sen/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" width="32px" height="32px"></a>
 <a href="https://twitter.com/Caroline_TClara"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="32px" height="32px"></a></td>
