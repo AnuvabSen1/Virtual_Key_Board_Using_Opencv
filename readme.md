@@ -7,9 +7,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)]()
 
-With the virtual keyboard, you can write on the real time images by combining the thumb and index fingers on the letter you want. At the same time, you can simultaneously write what you type on the virtual keyboard in the note application like at the bottom left in the video. This is not only for the note application, you can also type in with the virtual keyboard on the applications such as Safari, Google Chrome, Firefox, Notepad.
+With the virtual keyboard, you can write on the real time images by combining the thumb and index fingers on the letter you want.
+ 
+At the same time, you can simultaneously write what you type on the virtual keyboard in the note application like at the bottom left in the video.
 
-Hope you enjoyed it.
+This is not only for the note application, you can also type in with the virtual keyboard on the applications such as Safari, Google Chrome, Firefox, Notepad. Hope you enjoyed it.
 
 ## 👨💻 Goals of the Contributors
 
