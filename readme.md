@@ -11,7 +11,6 @@ With the virtual keyboard, you can write on the real time images by combining th
 At the same time, you can simultaneously write what you type on the virtual keyboard in the note application like at the bottom left in the video.
 
 This is not only for the note application, you can also type in with the virtual keyboard on the applications such as Safari, Google Chrome, Firefox, Notepad. Hope you enjoyed it.
-![144647228-f91f771c-a6cf-4341-95f2-83a65132ab0e](https://user-images.githubusercontent.com/86418113/144647300-a8a0c62f-1971-436d-9bc1-d5967e148b9d.jpg)
 
 ## 👨💻 Goals of the Contributors![c8833974-5185-4022-9610-6398b02fde49](https://user-images.githubusercontent.com/86418113/144647195-6b56746f-691a-48ca-b588-de4ab3f507b1.jpg)
 
