@@ -5,7 +5,7 @@
 
 ## 📌 Introduction
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)]()
 
 All in one place where you can find all the resources and details of ambassador/fellowship, open source events, web dev sites, js toolkits and etc. that are available across different sites. Consider this repository as your personal space to find or add any new resource that can make life easier for the community.
 
