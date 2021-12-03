@@ -12,7 +12,7 @@ At the same time, you can simultaneously write what you type on the virtual keyb
 
 This is not only for the note application, you can also type in with the virtual keyboard on the applications such as Safari, Google Chrome, Firefox, Notepad. Hope you enjoyed it.
 
-## 👨💻 Goals of the Contributors![c8833974-5185-4022-9610-6398b02fde49]
+## 👨💻 Goals of the Contributors
 
 
 
