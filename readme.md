@@ -65,8 +65,7 @@ pip3 install pynput
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added if necessary.
-- Add Screenshots to help us know what this Program/Fellowship is all about.
-- Do styling changes in the respective **Sass** file.
+- Do styling changes in the respective **py** file.
 
 
 ## ✨ Project Maintainers
