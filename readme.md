@@ -7,7 +7,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)]()
 
-All in one place where you can find all the resources and details of ambassador/fellowship, open source events, web dev sites, js toolkits and etc. that are available across different sites. Consider this repository as your personal space to find or add any new resource that can make life easier for the community.
+With the virtual keyboard, you can write on the real time images by combining the thumb and index fingers on the letter you want. At the same time, you can simultaneously write what you type on the virtual keyboard in the note application like at the bottom left in the video. This is not only for the note application, you can also type in with the virtual keyboard on the applications such as Safari, Google Chrome, Firefox, Notepad.
+
+Hope you enjoyed it.
 
 ## 👨💻 Goals of the Contributors
 
@@ -24,10 +26,6 @@ All in one place where you can find all the resources and details of ambassador/
 ## 👨‍💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
 ![OpenCv](https://img.shields.io/badge/OpenCv-blue.svg?style=for-the-badge&logo=OpenCv&logoColor=white)
-
-With the virtual keyboard, you can write on the real time images by combining the thumb and index fingers on the letter you want. At the same time, you can simultaneously write what you type on the virtual keyboard in the note application like at the bottom left in the video. This is not only for the note application, you can also type in with the virtual keyboard on the applications such as Safari, Google Chrome, Firefox, Notepad.
-
-Hope you enjoyed it.
 
 ## 🛠️ Installation Steps
 Star and Fork the Repo 🌟 and this will keep us motivated.
