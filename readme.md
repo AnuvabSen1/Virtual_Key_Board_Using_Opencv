@@ -17,7 +17,7 @@ This is not only for the note application, you can also type in with the virtual
 
 
 - This is the implementation of the virtual keyboard, you contributors have to take it to the next step, you all can add the keypress sounds and then we can also make the keyboard layout move within the frames.
-- Try to make the documentation of each step involved and contrubute in the documentation folder
+- Try to make the documentation of each step involved and contribute in the documentation folder
 - Deploy the ML model in a web application
 - Contribute and follow the contributing guidelines as shared
 
