@@ -62,18 +62,18 @@ pip3 install pynput
 
 **0.**  Create your own issue or choose one already mentioned in under issues section.
 
-**1.**  Fork [this](https://github.com/shivshankar9/Student-portal) repo.
+**1.**  Fork [this](https://github.com/AnuvabSen/Virtual_Key_Board_Using_Opencv) repo.
 
 **2.**  Clone your fork copy of the project which'll be visible in your account.
 
 ```
-git clone  https://github.com/shivshankar9/Student-portal
+git clone https://github.com/AnuvabSen/Virtual_Key_Board_Using_Opencv 
 ```
 
 **3.** Add a remote upstream to the original repository.
 
 ```
-git remote add upstream https://github.com/shivshankar9/Student-portal
+git remote add upstream https://github.com/AnuvabSen/Virtual_Key_Board_Using_Opencv
 ```
 
 **4.** Check the remotes for the repository.
