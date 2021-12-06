@@ -1,6 +1,6 @@
 ## Virtual Key Board Using Open Cv
 ### Develop the model and and deploy it to a Webpage!
-<img src="https://user-images.githubusercontent.com/86418113/144786899-e3c1d5ae-c19a-48a9-9847-59ba625f624f.jpg">
+<img src="https://user-images.githubusercontent.com/86418113/144787296-df3a474c-7d4d-4fed-bf7c-319a62ac3637.jpg">
 
 ## 📌 Introduction
 
