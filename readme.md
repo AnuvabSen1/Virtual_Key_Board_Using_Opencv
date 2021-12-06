@@ -1,6 +1,6 @@
 ## Virtual Key Board Using Open Cv
 ### Develop the model and and deploy it to a Webpage!
-<img src="https://user-images.githubusercontent.com/86418113/144647228-f91f771c-a6cf-4341-95f2-83a65132ab0e.jpg">
+<img src="https://user-images.githubusercontent.com/86418113/144786899-e3c1d5ae-c19a-48a9-9847-59ba625f624f.jpg">
 
 ## 📌 Introduction
 
@@ -178,3 +178,5 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 This project follows the [MIT License](/LICENSE).
+
+
