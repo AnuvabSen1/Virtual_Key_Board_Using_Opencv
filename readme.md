@@ -14,7 +14,6 @@ At the same time, you can simultaneously write what you type on the virtual keyb
 This is not only for the note application, you can also type in with the virtual keyboard on the applications such as Safari, Google Chrome, Firefox, Notepad. Hope you enjoyed it.
 
 ## 👨💻 Goals of the Contributors
-![145033876-e9cc4307-6920-40c2-af1a-279148d1c987](https://user-images.githubusercontent.com/86418113/145033934-f342a80a-bc6b-4987-aac0-3b8403f391ed.png)
 
 
 
