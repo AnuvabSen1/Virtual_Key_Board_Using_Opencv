@@ -1,6 +1,7 @@
 ## Virtual Key Board Using Open Cv
 ### Develop the model and and deploy it to a Webpage!
-<img src="https://user-images.githubusercontent.com/86418113/144787296-df3a474c-7d4d-4fed-bf7c-319a62ac3637.jpg">
+![Virtual Key Board USing OpenCv](https://user-images.githubusercontent.com/86418113/145034834-4d8beccc-b6f7-4313-bdfd-30242a59955f.jpg)
+
 
 ## 📌 Introduction
 
@@ -13,6 +14,7 @@ At the same time, you can simultaneously write what you type on the virtual keyb
 This is not only for the note application, you can also type in with the virtual keyboard on the applications such as Safari, Google Chrome, Firefox, Notepad. Hope you enjoyed it.
 
 ## 👨💻 Goals of the Contributors
+![145033876-e9cc4307-6920-40c2-af1a-279148d1c987](https://user-images.githubusercontent.com/86418113/145033934-f342a80a-bc6b-4987-aac0-3b8403f391ed.png)
 
 
 
