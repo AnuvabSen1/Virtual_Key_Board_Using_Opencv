@@ -2,8 +2,9 @@ try:
     import cv2
     from cvzone.HandTrackingModule import HandDetector
     import cvzone
+    from time import sleep
     from pynput.keyboard import Controller
-    from configs import WIDTH, HEIGHT, FPS, INDEX_FINGER_TIP, MIDDLE_FINGER_TIP, DIST_INDEX_MID,FONT_H,SCALE
+    from configs import WIDTH, HEIGHT, FPS, INDEX_FINGER_TIP, MIDDLE_FINGER_TIP, DIST_INDEX_MID, SCALE, BASE_FONT_HEIGHT
 except:
     print("Fulfil Requirements, use requirements.txt")
 
@@ -55,17 +56,26 @@ def generate_buttons():
 
 
 def text_field():
-    # cv2.rectangle(img, (50, 350), (700, 450), (175, 0, 175), cv2.FILLED)
     x = WIDTH // 22
     y = HEIGHT // 2
     i = 0
+    CONST = SCALE * BASE_FONT_HEIGHT
+    cv2.rectangle(img, (x, y - CONST - 10),
+                  (WIDTH - CONST + 20, HEIGHT - CONST + 20), (175, 0, 175), cv2.FILLED)
     for txt in finalText:
-        cv2.putText(img, txt, (x + i, y),
-                    cv2.FONT_HERSHEY_PLAIN, SCALE, (255, 255, 255), 5)
-        i += SCALE * FONT_H
+        if x + i < WIDTH - 100:
+            cv2.putText(img, txt, (x + i, y),
+                        cv2.FONT_HERSHEY_PLAIN, SCALE, (255, 255, 255), SCALE)
+            i += CONST
+        else:
+            cv2.putText(img, txt, (x + i, y),
+                        cv2.FONT_HERSHEY_PLAIN, SCALE, (255, 255, 255), SCALE)
+            y += int(CONST * 1.5)
+            i = 0
 
 
 generate_buttons()
+delay = 0
 while True:
     success, img = cap.read()
     img = cv2.resize(img, (WIDTH, HEIGHT), interpolation=cv2.INTER_AREA)
